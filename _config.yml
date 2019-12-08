@@ -67,4 +67,4 @@ defaults:
     values:
       image: true
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
